@@ -1,0 +1,6 @@
+framework module Pods_StyleGuideTests {
+  umbrella header "Pods-StyleGuideTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
